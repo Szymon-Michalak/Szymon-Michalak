@@ -2,6 +2,10 @@
 
 <h1 align="center">Welcome to my small part of GitHub 👋</h1>
 
+#### You can check out my latest work [here](https://github.com/szymonmichalak/IOSDirectedLearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=IOSDirectedLearning)](https://github.com/szymon-michalak/IOSDirectedLearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=Capslock-God)](https://github.com/szymon-michalak/Capslock-God)
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
