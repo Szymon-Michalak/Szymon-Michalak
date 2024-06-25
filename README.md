@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=PolygonNetwork)](https://github.com/szymon-michalak/PolygonNetwork)
 
 #### ...and my tools:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=Capslock-God)](https://github.com/szymon-michalak/Capslock-God)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=swift-algorithms)](https://github.com/szymon-michalak/swift-algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=ios-snippets)](https://github.com/szymon-michalak/ios-snippets)
 
 ###
