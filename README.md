@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my small part of GitHub 👋</h1>
 
 #### You can check out my latest work:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=IOSDirectedLearning)](https://github.com/szymon-michalak/IOSDirectedLearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=IOS-Resources)](https://github.com/Szymon-Michalak/iOS-Resources)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szymon-michalak&repo=PolygonNetwork)](https://github.com/szymon-michalak/PolygonNetwork)
 
 #### ...and my tools:
